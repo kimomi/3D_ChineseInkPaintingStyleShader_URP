@@ -24,7 +24,7 @@
 		Pass
 		{
 			
-			Tags { "RenderType"="Opaque" "LightMode" = "ForwardBase"}
+			Tags { "RenderType"="Opaque"}
 			LOD 100
 			
 			CGPROGRAM
